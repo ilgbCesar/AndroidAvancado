@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lembretes</string>
+    <string name="Heading1">Titulo</string>
+    <string name="Heading2">Descricao</string>
+    <string name="hint1">Digite algum titulo</string>
+    <string name="hint2">Digite alguma descricao</string>
+    <string name="channel_name">Lembrete</string>
+    <string name="channel_description">Aplicativo de lembretes e alertas</string>
+</resources>
